@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\bin\Debug\Hakan.ConsoleApp.Test.Polymorphism.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\bin\Debug\Hakan.ConsoleApp.Test.Polymorphism.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\bin\Debug\Hakan.ConsoleApp.Test.Polymorphism.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\obj\Debug\Hakan.ConsoleApp.Test.Polymorphism.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\obj\Debug\Hakan.ConsoleApp.Test.Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\obj\Debug\Hakan.ConsoleApp.Test.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\obj\Debug\Hakan.ConsoleApp.Test.Polymorphism.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan\Polymorphism\Hakan\Hakan.ConsoleApp.Test.Polymorphism\obj\Debug\Hakan.ConsoleApp.Test.Polymorphism.pdb
